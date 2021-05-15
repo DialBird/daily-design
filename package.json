@@ -1,0 +1,12 @@
+{
+  "name": "daily-design",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Keisuke Taniguchi <rememberthatk@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.3.0",
+    "stylelint": "^13.13.1",
+    "stylelint-prettier": "^1.2.0"
+  }
+}
